@@ -682,6 +682,7 @@ img , svg {
 }
 .footer-form-frame {
     display: flex;
+    gap: 24px;
     
 }
 .footer-form-label {
