@@ -916,9 +916,9 @@ img , svg {
 
 }
 
-input[type="checkbox"]:checked ~ .modal-input-checkbox > .span-icon {
+input[type="checkbox"]:checked ~ .checkbox-label > .span-modal {
     border: none;
-    background-color: #404bbf;
+    background-color: var(--ocean-colour);
     fill: #f4f4fd;
 }
 
