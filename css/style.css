@@ -889,7 +889,7 @@ img , svg {
 .modal-textarea {
     margin-bottom: 16px
 }
-.modal-input:focus .user-icon {
+.modal-input:focus .span-icon {
     fill: var(--iris-colour)
 }
 
