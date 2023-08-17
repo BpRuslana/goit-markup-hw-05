@@ -887,11 +887,10 @@ img , svg {
 
 }
 .modal-textarea {
-    
+    margin-bottom: 16px
 }
-
-.modal-textarea:focus {
-    fill: #4D5AE5; 
+.modal-input:focus .user-icon {
+    fill: var(--iris-colour)
 }
 
 .modal-checkbox{
