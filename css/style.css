@@ -870,7 +870,7 @@ img , svg {
     
 
 }
-.comment{
+.textarea-comment{
     width: 100%; 
     height: 120px;
     font-size: 12px;
@@ -889,7 +889,7 @@ img , svg {
 .modal-textarea {
     margin-bottom: 16px
 }
-.modal-input:focus .user-icon {
+.textarea-comment:focus {
     border-color: var(--iris-colour);
 }
 
