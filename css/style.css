@@ -870,7 +870,7 @@ img , svg {
     
 
 }
-.textarea{
+.comment{
     width: 100%; 
     height: 120px;
     font-size: 12px;
@@ -886,8 +886,11 @@ img , svg {
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 }
+.modal-textarea {
+    
+}
 
- .textarea:focus {
+.modal-textarea:focus {
     fill: #4D5AE5; 
 }
 
